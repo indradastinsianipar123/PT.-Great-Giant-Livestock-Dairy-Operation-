@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <clipPath id="badge">
+      <circle cx="64" cy="64" r="58"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#badge)">
+    <rect width="128" height="128" fill="#fff"/>
+    <path d="M4 75h120v55H4z" fill="#138d27"/>
+    <path d="M5 68h118M5 61h118M7 54h114M10 47h108M15 40h98M22 33h84M31 26h66" fill="none" stroke="#58b978" stroke-width="2"/>
+    <path d="M26 70c2-7 9-9 13-14l-2-9 9 2c5-7 12-10 20-9l8-8 3 12c8 2 14 8 16 16l8 6-10 1c-4 8-11 12-22 12H47c-9 0-16-3-21-9z" fill="#fff" stroke="#e9a43c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+    <path d="M45 47l-9-5 3 11m45-1 8-7-1 12M53 51l4 2m15-2-3 3m-7 1v6m-9 3c5 3 12 3 17 0m-23 9v8m25-8v8" fill="none" stroke="#e9a43c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.2"/>
+    <circle cx="53" cy="57" r="1.7" fill="#e9a43c"/>
+    <circle cx="73" cy="57" r="1.7" fill="#e9a43c"/>
+  </g>
+</svg>
